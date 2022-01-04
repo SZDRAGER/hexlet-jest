@@ -1,0 +1,16 @@
+{
+  "name": "hexlet-jest",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules 'node_modules/.bin/jest'"
+  },
+  "author": "AD",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "@jest/globals": "^27.4.5"
+  }
+}
